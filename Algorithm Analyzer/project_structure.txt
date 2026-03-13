@@ -1,0 +1,14 @@
+.
+├── data
+│   ├── results.csv
+│   └── search_results.csv
+├── main.py
+├── notebooks
+│   └── analysis.ipynb
+├── project_structure.txt
+└── src
+    ├── __init__.py
+    ├── experiments.py
+    ├── input_generator.py
+    ├── searching.py
+    └── sorting.py
