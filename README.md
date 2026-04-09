@@ -52,22 +52,7 @@ This project was built to bridge that gap. Instead of memorizing complexity, you
 - Students preparing for DSA interviews  
 - Anyone who wants intuition beyond theory  
 - Developers curious about real-world performance  
-
-
-## Highlights
-
-- **Multi-Dimensional Benchmarking:**  
-  Varies input size, input type, and multiple runs. Captures both performance and variability.  
-- **Custom Input Generator:**  
-  Random, Sorted, Reverse, Nearly Sorted datasets. Tests best/worst/average cases properly.  
-- **Repeated Runs for Stability:**  
-  Multiple runs reduce noise and enable distribution-based analysis.  
-- **Time Measurement Precision:**  
-  Uses `time.perf_counter()` for accurate benchmarking.  
-- **Visualization Depth (Non-trivial):**  
-  Includes normal vs log scale, boxplots, heatmaps, and strategy comparison graphs.  
-- **Insight-Driven Analysis:**  
-  Clear observations are derived from each graph — not just raw plots.  
+ 
 
 ## Highlights
 
